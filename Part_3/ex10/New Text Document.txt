@@ -1,0 +1,9 @@
+add wave clock enable
+add wave load enable
+add data_in enable
+add load enable
+add dac_sdi enable
+add dac_cs enable
+add dac_sck enable
+add dac_ld enable
+force  clock 0 0, 1 20ns -repeat 20ns

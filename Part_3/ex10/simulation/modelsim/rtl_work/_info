@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\VERI_Experiment\Part_3\ex10\simulation\modelsim
+vspi2dac
+!i10b 1
+!s100 IC_=NAL5dAb3YXOMEF1W53
+I>B8>>PE5]>jn:mb0GBX:V0
+VFNOGDa=aYhJTn=76LYB@A2
+Z1 dH:\VERI_Experiment\Part_3\ex10\simulation\modelsim
+w1480417510
+8H:/VERI_Experiment/Part_3/ex10/spi2dac.v
+FH:/VERI_Experiment/Part_3/ex10/spi2dac.v
+L0 9
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1480417633.574000
+!s107 H:/VERI_Experiment/Part_3/ex10/spi2dac.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_3/ex10|H:/VERI_Experiment/Part_3/ex10/spi2dac.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_3/ex10 -O0

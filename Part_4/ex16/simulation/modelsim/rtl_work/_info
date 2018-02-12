@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\VERI_Experiment\Part_4\ex16\simulation\modelsim
+vclktick_16
+Ic_RK[5]AB<ln^oRSJd<IX1
+VeXlNhnQ:]TNWWH`T6dmC50
+Z1 dH:\VERI_Experiment\Part_4\ex16\simulation\modelsim
+w1478247282
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/clktick_16.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/clktick_16.v
+L0 6
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto -O0
+!i10b 1
+!s100 26M_gHSl0iJ2k`M5=R[If2
+!s85 0
+!s108 1481018959.656000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/clktick_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/clktick_16.v|
+!s101 -O0
+vex16_top
+I0ln25BK6LeTG34fzRiBm`2
+V6:ML_RkW22T1bH8;H[>^]1
+R1
+w1480413120
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/ex16_top.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/ex16_top.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 QjRLSmN3_kM9k`T[1`bF31
+!s85 0
+!s108 1481018959.378000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/ex16_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/ex16_top.v|
+!s101 -O0
+vhex_to_7seg
+ICd6MI35JHWa?FE:=OgN5H0
+VmajmUT@0;iC?5d23GJR[Q1
+R1
+w1319400080
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/hex_to_7seg.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/hex_to_7seg.v
+L0 10
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 <8G2FYU]>2;`jJ80c;I:c2
+!s85 0
+!s108 1481018959.115000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/hex_to_7seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/hex_to_7seg.v|
+!s101 -O0
+vprocessor
+!i10b 1
+!s100 9;>`TaQM7RVLBF=h?i1L42
+IVjW^:PT[1>Ll]hQEXOW0W1
+Vd<XGQiEJ`0V8Zgg5n^_7C0
+R1
+w1391282804
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/allpass.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/allpass.v
+L0 9
+R2
+r1
+!s85 0
+31
+!s108 1481018959.986000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/allpass.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/allpass.v|
+!s101 -O0
+R3
+R4
+vpwm
+I_I88WkRVAcD`W?DVICc8z0
+V:TYofWcnBoYTBU39QYcOY2
+R1
+w1392628002
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/pwm.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/pwm.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 c4S2@Z1kAHE@f]`NIz7]j3
+!s85 0
+!s108 1481018958.844000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/pwm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/pwm.v|
+!s101 -O0
+vspi2adc
+IIZXCGmDl9nWW5iVW]nTJl0
+VUE8KZGmf6Mcl:cj22e?OP0
+R1
+w1390677882
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2adc.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2adc.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 gHVb_;3P3Lg8MBWNZn9Gc0
+!s85 0
+!s108 1481018958.579000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2adc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2adc.v|
+!s101 -O0
+vspi2dac
+Ik?1gLzTGE2A1EPBRj1Q;N3
+VRBknMTRZ]n`1ALo4m:T8m1
+R1
+w1478717276
+8H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2dac.v
+FH:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2dac.v
+L0 9
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 @g9cQ7n?:YJaJk52QUHcC3
+!s85 0
+!s108 1481018958.232000
+!s107 H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2dac.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto|H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2dac.v|
+!s101 -O0

@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\VERI_Experiment\Part_2\ex5\simulation\modelsim
+vcounter_8
+!i10b 1
+!s100 WFHCW:@V=AFUGC3e2MW[12
+IcBSOhHlSFTa[glZ]7b^c62
+Vdn7aTnOzPKdeZA;zmQ`Cl3
+Z1 dH:\VERI_Experiment\Part_2\ex5\simulation\modelsim
+w1479210171
+8H:/VERI_Experiment/Part_2/ex5/counter_8.v
+FH:/VERI_Experiment/Part_2/ex5/counter_8.v
+L0 8
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1479806508.358000
+!s107 H:/VERI_Experiment/Part_2/ex5/counter_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI_Experiment/Part_2/ex5|H:/VERI_Experiment/Part_2/ex5/counter_8.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_2/ex5 -O0

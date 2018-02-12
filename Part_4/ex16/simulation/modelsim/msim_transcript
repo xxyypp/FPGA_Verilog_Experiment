@@ -1,0 +1,61 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do ex16_top_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2dac.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module spi2dac
+# 
+# Top level modules:
+# 	spi2dac
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/spi2adc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module spi2adc
+# 
+# Top level modules:
+# 	spi2adc
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/pwm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pwm
+# 
+# Top level modules:
+# 	pwm
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/hex_to_7seg.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module hex_to_7seg
+# 
+# Top level modules:
+# 	hex_to_7seg
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/ex16_top.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ex16_top
+# 
+# Top level modules:
+# 	ex16_top
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/clktick_16.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module clktick_16
+# 
+# Top level modules:
+# 	clktick_16
+# vlog -vlog01compat -work work +incdir+H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto {H:/VERI_Experiment/Part_4/ex16/ex16_proto/ex16_proto/allpass.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module processor
+# 
+# Top level modules:
+# 	processor
+# 
+vsim work.clktick_16
+# vsim work.clktick_16 
+# Loading work.clktick_16
+vsim work.clktick_16
+# vsim work.clktick_16 
+# Loading work.clktick_16
